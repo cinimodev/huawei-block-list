@@ -1,5 +1,8 @@
 # huawei-block-list
 
+## PiHole Update
+This is a fork from [huawei-block-list](https://github.com/deep-bhatt/huawei-block-list) with the blocklist syntax updated to work in PiHole. Below is the original notes from the creator on how they captured the blocklist.
+
 ## What is this? 
 It's a block list. You can integrate this into your PiHole or local blocking software such as Blokada, AdAway... etc. to block out all the outgoing connections to the said domains.
 
