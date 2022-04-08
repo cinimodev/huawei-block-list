@@ -78,7 +78,7 @@
 0.0.0.0 sdkserver-dra.op.hicloud.com
 0.0.0.0 sdkserver-dre.op.hicloud.com
 0.0.0.0 security-captcha-dre.platform.hicloud.com
-sns7.0.0.0.0 hicloud.com
+0.0.0.0 sns7.0.0.0.0 hicloud.com
 0.0.0.0 sp-8f237ea3.honzik.avcdn.net
 0.0.0.0 sp-8f237ea3.vps-v4.u.acvdn.net
 0.0.0.0 sportsuggest-dre.things.hicloud.com
