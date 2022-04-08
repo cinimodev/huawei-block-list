@@ -9,86 +9,86 @@
 #update-dre.platform.hicloud.com # Update Firmware
 # --------------------------------------------------
 
-achievement-dre.things.hicloud.com
-adxcreative-dra.dbankcdn.com
-adx-dre.op.hicloud.com
-adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
-adx-dre.op.hicloud.com.edgekey.net
-api.cloud.hicloud.com
-api.cloud.huawei.com
-api-dra.music.hicloud.com
-cdn.hinative.com
-communityfile-drcn.op.hicloud.com
-configdownload-dra.dbankcdn.com
-configserver-dra.platform.hicloud.com
-configserver-dre.platform.hicloud.com
-consumer-tkbdownload.huawei.com
-coupon-dra.iap.hicloud.com
-cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
-cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
-dnkeeper.hicloud.com
-dsa-sslv6.hispace.hicloud.com.edgekey.net
-eu.mclean.50union.com
-eu.mvconf.50union.com
-events-dra.op.hicloud.com
-events-dre.op.hicloud.com
-gra.hicloud.com
-grs.dbankcloud.asia
-grs.dbankcloud.cn
-grs.dbankcloud.com
-grs-dbankcloud-com-dre.appacc.dbankedge.net
-grs-dbankcloud.com-dre.appacc.dbankedge.net
-grs-dbankcloud-com-dre.appacc-region.dbankedge.net
-grs-dbankcloud.com-dre.appacc-region.dbankedge.net
-grs.dbankcloud.eu
-hag-dre.ai.hicloud.com
-healthactivity-dre.things.hicloud.com
-healthdeviceagent-dre.things.hicloud.com
-hinative.com
-huaweihigame.com
-hwid-dra.platform.hicloud.com
-hwid-dre.platform.hicloud.com
-hwid.platform.hicloud.com
-id1.cloud.huawei.com
-id2.cloud.huawei.com
-id3.cloud.huawei.com
-id4.cloud.huawei.com
-id5.cloud.huawei.com
-id6.cloud.huawei.com
-id7.cloud.huawei.com
-id.cloud.huawei.com
-id-dre.dbankcdn.com
-logbak.hicloud.com
-logservice1.hicloud.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
-metrics5.data.hicloud.com
-metrics.data.hicloud.com
-metrics-dra.dt.hicloud.com
-pay5.hicloud.com
-pushtrs6.push.hicloud.com
-pushtrs7.push.hicloud.com
-rms-dre.platform.dbankcloud.com
-rms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
-rms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
-rms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
-rms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
-sdkserver-dra.op.hicloud.com
-sdkserver-dre.op.hicloud.com
-security-captcha-dre.platform.hicloud.com
-sns7.hicloud.com
-sp-8f237ea3.honzik.avcdn.net
-sp-8f237ea3.vps-v4.u.acvdn.net
-sportsuggest-dre.things.hicloud.com
-store.hispace.hicloud.com
-theme-dra.emui.hicloud.com
-tsms-dre.platform.dbankcloud.com
-tsms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
-tsms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
-tsms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
-tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
-upfile5.hicloud.com
-upfile7.hicloud.com
-videocontent-dra.himovie.hicloud.com
+0.0.0.0 achievement-dre.things.hicloud.com
+0.0.0.0 adxcreative-dra.dbankcdn.com
+0.0.0.0 adx-dre.op.hicloud.com
+0.0.0.0 adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
+0.0.0.0 adx-dre.op.hicloud.com.edgekey.net
+0.0.0.0 api.cloud.hicloud.com
+0.0.0.0 api.cloud.huawei.com
+0.0.0.0 api-dra.music.hicloud.com
+0.0.0.0 cdn.hinative.com
+0.0.0.0 communityfile-drcn.op.hicloud.com
+0.0.0.0 configdownload-dra.dbankcdn.com
+0.0.0.0 configserver-dra.platform.hicloud.com
+0.0.0.0 configserver-dre.platform.hicloud.com
+0.0.0.0 consumer-tkbdownload.huawei.com
+0.0.0.0 coupon-dra.iap.hicloud.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
+0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 dsa-sslv6.hispace.hicloud.com.edgekey.net
+0.0.0.0 eu.mclean.50union.com
+0.0.0.0 eu.mvconf.50union.com
+0.0.0.0 events-dra.op.hicloud.com
+0.0.0.0 events-dre.op.hicloud.com
+0.0.0.0 gra.hicloud.com
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs-dbankcloud-com-dre.appacc.dbankedge.net
+0.0.0.0 grs-dbankcloud.com-dre.appacc.dbankedge.net
+0.0.0.0 grs-dbankcloud-com-dre.appacc-region.dbankedge.net
+0.0.0.0 grs-dbankcloud.com-dre.appacc-region.dbankedge.net
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 hag-dre.ai.hicloud.com
+0.0.0.0 healthactivity-dre.things.hicloud.com
+0.0.0.0 healthdeviceagent-dre.things.hicloud.com
+0.0.0.0 hinative.com
+0.0.0.0 huaweihigame.com
+0.0.0.0 hwid-dra.platform.hicloud.com
+0.0.0.0 hwid-dre.platform.hicloud.com
+0.0.0.0 hwid.platform.hicloud.com
+0.0.0.0 id1.cloud.huawei.com
+0.0.0.0 id2.cloud.huawei.com
+0.0.0.0 id3.cloud.huawei.com
+0.0.0.0 id4.cloud.huawei.com
+0.0.0.0 id5.cloud.huawei.com
+0.0.0.0 id6.cloud.huawei.com
+0.0.0.0 id7.cloud.huawei.com
+0.0.0.0 id.cloud.huawei.com
+0.0.0.0 id-dre.dbankcdn.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 pay5.hicloud.com
+0.0.0.0 pushtrs6.push.hicloud.com
+0.0.0.0 pushtrs7.push.hicloud.com
+0.0.0.0 rms-dre.platform.dbankcloud.com
+0.0.0.0 rms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
+0.0.0.0 rms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
+0.0.0.0 rms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
+0.0.0.0 rms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
+0.0.0.0 sdkserver-dra.op.hicloud.com
+0.0.0.0 sdkserver-dre.op.hicloud.com
+0.0.0.0 security-captcha-dre.platform.hicloud.com
+sns7.0.0.0.0 hicloud.com
+0.0.0.0 sp-8f237ea3.honzik.avcdn.net
+0.0.0.0 sp-8f237ea3.vps-v4.u.acvdn.net
+0.0.0.0 sportsuggest-dre.things.hicloud.com
+0.0.0.0 store.hispace.hicloud.com
+0.0.0.0 theme-dra.emui.hicloud.com
+0.0.0.0 tsms-dre.platform.dbankcloud.com
+0.0.0.0 tsms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
+0.0.0.0 tsms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
+0.0.0.0 tsms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
+0.0.0.0 tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
+0.0.0.0 upfile5.hicloud.com
+0.0.0.0 upfile7.hicloud.com
+0.0.0.0 videocontent-dra.himovie.hicloud.com
